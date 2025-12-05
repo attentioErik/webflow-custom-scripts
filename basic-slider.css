@@ -1,6 +1,6 @@
 [data-slider-track] {
   display: flex;
-  overflow: hidden;
+  overflow: visible;
 }
 
 [data-slider-slide] {
