@@ -1,0 +1,9 @@
+
+  [data-filter-card].is-hidden {
+    display: none !important;
+  }
+
+  [data-filter-btn].is-active {
+    background-color: #3183ff;
+    color: #ffffff;
+  }
