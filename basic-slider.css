@@ -1,0 +1,13 @@
+[data-slider-track] {
+  display: flex;
+  overflow: hidden;
+}
+
+[data-slider-slide] {
+  flex: 0 0 auto;
+  transition: transform 0.3s ease;
+}
+
+[data-slider-slide].is-active {
+  opacity: 1;
+}
